@@ -9,14 +9,16 @@ This project demonstrates data wrangling, tidyverse workflows, and exporting res
 ```
 education-data-management/
 ├── data/
-│   ├── EdStatsData.csv              # raw dataset (not included because it is large. A sample data with 100 rows are added)
+│   ├── EdStatsData.csv              # raw dataset (large, can be ignored or replaced with sample)
 │   ├── cleaned_data.csv             # cleaned output
 │   ├── cleaned_data.dta             # Stata format output
-│   └── summary_stats.csv            # descriptive statistics output
+│   ├── indicator_frequency.csv      # frequency table of indicators
+│   └── primary_summary.csv          # summary stats for Primary Enrollment Rate
 ├── scripts/
 │   ├── clean_data.R                 # cleaning + reshaping pipeline
 │   └── descriptive_stats.R          # frequency tables + summaries
 └── README.md
+
 ```
 
 ---
