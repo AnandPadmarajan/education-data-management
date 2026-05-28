@@ -9,7 +9,7 @@ This project demonstrates data wrangling, tidyverse workflows, and exporting res
 ```
 education-data-management/
 ├── data/
-│   ├── EdStatsData.csv              # raw dataset (not included if large)
+│   ├── EdStatsData.csv              # raw dataset (not included because it is large. A sample data with 100 rows are added)
 │   ├── cleaned_data.csv             # cleaned output
 │   ├── cleaned_data.dta             # Stata format output
 │   └── summary_stats.csv            # descriptive statistics output
@@ -69,7 +69,3 @@ World Bank Education Statistics (EdStats) — World Bank Data Catalog [https://d
 - Export to CSV and Stata formats  
 
 
-
-✨ This README is recruiter‑ready: clear overview, usage instructions, dependencies, and highlights.  
-
-👉 If you’d like, I can also add **badges** (R version, license, last commit) at the very top to make it visually appealing. Would you like me to include those?
