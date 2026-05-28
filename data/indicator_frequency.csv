@@ -1,0 +1,1001 @@
+"","Var1","Freq"
+"1","Adjusted net enrolment rate, lower secondary, both sexes (%)",64
+"2","Adjusted net enrolment rate, lower secondary, female (%)",64
+"3","Adjusted net enrolment rate, lower secondary, gender parity index (GPI)",64
+"4","Adjusted net enrolment rate, lower secondary, male (%)",64
+"5","Adjusted net enrolment rate, primary, both sexes (%)",64
+"6","Adjusted net enrolment rate, primary, female (%)",64
+"7","Adjusted net enrolment rate, primary, gender parity index (GPI)",64
+"8","Adjusted net enrolment rate, primary, male (%)",64
+"9","Adjusted net enrolment rate, upper secondary, both sexes (%)",64
+"10","Adjusted net enrolment rate, upper secondary, female (%)",64
+"11","Adjusted net enrolment rate, upper secondary, gender parity index (GPI)",64
+"12","Adjusted net enrolment rate, upper secondary, male (%)",64
+"13","Adjusted net intake rate to Grade 1 of primary education, both sexes (%)",64
+"14","Adjusted net intake rate to Grade 1 of primary education, female (%)",64
+"15","Adjusted net intake rate to Grade 1 of primary education, gender parity index (GPI)",64
+"16","Adjusted net intake rate to Grade 1 of primary education, male (%)",64
+"17","Adult illiterate population, 15+ years, % female",64
+"18","Adult illiterate population, 15+ years, both sexes (number)",64
+"19","Adult illiterate population, 15+ years, female (number)",64
+"20","Adult illiterate population, 15+ years, male (number)",64
+"21","Adult literacy rate, population 15+ years, both sexes (%)",64
+"22","Adult literacy rate, population 15+ years, female (%)",64
+"23","Adult literacy rate, population 15+ years, gender parity index (GPI)",64
+"24","Adult literacy rate, population 15+ years, male (%)",64
+"25","Africa Dataset: Average number of grades per multigrade class in primary schools (number of grades)",64
+"26","Africa Dataset: Average number of pupils per mathematics textbook in Grade 1 of primary education (number)",64
+"27","Africa Dataset: Average number of pupils per mathematics textbook in Grade 2 of primary education (number)",64
+"28","Africa Dataset: Average number of pupils per mathematics textbook in Grade 3 of primary education (number)",64
+"29","Africa Dataset: Average number of pupils per mathematics textbook in Grade 4 of primary education (number)",64
+"30","Africa Dataset: Average number of pupils per mathematics textbook in Grade 5 of primary education (number)",64
+"31","Africa Dataset: Average number of pupils per mathematics textbook in Grade 6 of primary education (number)",64
+"32","Africa Dataset: Average number of pupils per mathematics textbook in Grade 7 of primary education (number)",64
+"33","Africa Dataset: Average number of pupils per mathematics textbook in primary education (number)",64
+"34","Africa Dataset: Average number of pupils per reading textbook in Grade 1 of primary education (number)",64
+"35","Africa Dataset: Average number of pupils per reading textbook in Grade 2 of primary education (number)",64
+"36","Africa Dataset: Average number of pupils per reading textbook in Grade 3 of primary education (number)",64
+"37","Africa Dataset: Average number of pupils per reading textbook in Grade 4 of primary education (number)",64
+"38","Africa Dataset: Average number of pupils per reading textbook in Grade 5 of primary education (number)",64
+"39","Africa Dataset: Average number of pupils per reading textbook in Grade 6 of primary education (number)",64
+"40","Africa Dataset: Average number of pupils per reading textbook in Grade 7 of primary education (number)",64
+"41","Africa Dataset: Average number of pupils per reading textbook in primary education (number)",64
+"42","Africa Dataset: Average size of classes in primary schools (number of pupils)",64
+"43","Africa Dataset: Average size of multigrade classes in primary schools (number of pupils)",64
+"44","Africa Dataset: Average size of single grade classes in Grade 1 of primary schools (number of pupils)",64
+"45","Africa Dataset: Average size of single grade classes in Grade 2 of primary schools (number of pupils)",64
+"46","Africa Dataset: Average size of single grade classes in Grade 3 of primary schools (number of pupils)",64
+"47","Africa Dataset: Average size of single grade classes in Grade 4 of primary schools (number of pupils)",64
+"48","Africa Dataset: Average size of single grade classes in Grade 5 of primary schools (number of pupils)",64
+"49","Africa Dataset: Average size of single grade classes in Grade 6 of primary schools (number of pupils)",64
+"50","Africa Dataset: Average size of single grade classes in Grade 7 of primary schools (number of pupils)",64
+"51","Africa Dataset: Average size of single grade classes in primary schools (number of pupils)",64
+"52","Africa Dataset: Graduates from accredited pre-service lower secondary teacher training programmes, both sexes (number)",64
+"53","Africa Dataset: Graduates from accredited pre-service lower secondary teacher training programmes, female (number)",64
+"54","Africa Dataset: Graduates from accredited pre-service primary or secondary teacher training programmes, both sexes (number)",64
+"55","Africa Dataset: Graduates from accredited pre-service primary or secondary teacher training programmes, female (number)",64
+"56","Africa Dataset: Graduates from accredited pre-service primary teacher training programmes, both sexes (number)",64
+"57","Africa Dataset: Graduates from accredited pre-service primary teacher training programmes, female (number)",64
+"58","Africa Dataset: Graduates from accredited pre-service teacher training programmes, level unspecified, both sexes (number)",64
+"59","Africa Dataset: Graduates from accredited pre-service teacher training programmes, level unspecified, female (number)",64
+"60","Africa Dataset: Graduates from accredited pre-service upper secondary teacher training programmes, both sexes (number)",64
+"61","Africa Dataset: Graduates from accredited pre-service upper secondary teacher training programmes, female (number)",64
+"62","Africa Dataset: Percentage of female newly recruited teachers in lower secondary education who are trained, female (%)",64
+"63","Africa Dataset: Percentage of female newly recruited teachers in primary education who are trained, female (%)",64
+"64","Africa Dataset: Percentage of female newly recruited teachers in upper secondary education who are trained, female (%)",64
+"65","Africa Dataset: Percentage of female teachers in lower secondary education who are newly recruited, female (%)",64
+"66","Africa Dataset: Percentage of female teachers in primary education who are newly recruited, female (%)",64
+"67","Africa Dataset: Percentage of female teachers in upper secondary education who are newly recruited, female (%)",64
+"68","Africa Dataset: Percentage of lower secondary schools with access to electricity (%)",64
+"69","Africa Dataset: Percentage of lower secondary schools with access to potable water (%)",64
+"70","Africa Dataset: Percentage of lower secondary schools with mixed-sex toilets (%)",64
+"71","Africa Dataset: Percentage of lower secondary schools with no information on electricity (%)",64
+"72","Africa Dataset: Percentage of lower secondary schools with no information on potable water (%)",64
+"73","Africa Dataset: Percentage of lower secondary schools with no information on toilets (%)",64
+"74","Africa Dataset: Percentage of lower secondary schools with single-sex toilets (%)",64
+"75","Africa Dataset: Percentage of lower secondary schools with toilets (%)",64
+"76","Africa Dataset: Percentage of lower secondary schools without access to electricity (%)",64
+"77","Africa Dataset: Percentage of lower secondary schools without access to potable water (%)",64
+"78","Africa Dataset: Percentage of lower secondary schools without toilets (%)",64
+"79","Africa Dataset: Percentage of male newly recruited teachers in lower secondary education who are trained, male (%)",64
+"80","Africa Dataset: Percentage of male newly recruited teachers in primary education who are trained, male (%)",64
+"81","Africa Dataset: Percentage of male newly recruited teachers in upper secondary education who are trained, male (%)",64
+"82","Africa Dataset: Percentage of male teachers in lower secondary education who are newly recruited, male (%)",64
+"83","Africa Dataset: Percentage of male teachers in primary education who are newly recruited, male (%)",64
+"84","Africa Dataset: Percentage of male teachers in upper secondary education who are newly recruited, male (%)",64
+"85","Africa Dataset: Percentage of newly recruited teachers in lower secondary education who are female (%)",64
+"86","Africa Dataset: Percentage of newly recruited teachers in lower secondary education who are trained, both sexes (%)",64
+"87","Africa Dataset: Percentage of newly recruited teachers in primary education who are female (%)",64
+"88","Africa Dataset: Percentage of newly recruited teachers in primary education who are trained, both sexes (%)",64
+"89","Africa Dataset: Percentage of newly recruited teachers in upper secondary education who are female (%)",64
+"90","Africa Dataset: Percentage of newly recruited teachers in upper secondary education who are trained, both sexes (%)",64
+"91","Africa Dataset: Percentage of primary pupils in multigrade classes (%)",64
+"92","Africa Dataset: Percentage of primary schools with access to electricity (%)",64
+"93","Africa Dataset: Percentage of primary schools with access to potable water (%)",64
+"94","Africa Dataset: Percentage of primary schools with mixed-sex toilets (%)",64
+"95","Africa Dataset: Percentage of primary schools with no information on electricity (%)",64
+"96","Africa Dataset: Percentage of primary schools with no information on potable water (%)",64
+"97","Africa Dataset: Percentage of primary schools with no information on toilets (%)",64
+"98","Africa Dataset: Percentage of primary schools with single-sex toilets (%)",64
+"99","Africa Dataset: Percentage of primary schools with toilets (%)",64
+"100","Africa Dataset: Percentage of primary schools without access to electricity (%)",64
+"101","Africa Dataset: Percentage of primary schools without access to potable water (%)",64
+"102","Africa Dataset: Percentage of primary schools without toilets (%)",64
+"103","Africa Dataset: Percentage of teachers in lower secondary education who are newly recruited, both sexes (%)",64
+"104","Africa Dataset: Percentage of teachers in primary education who are newly recruited, both sexes (%)",64
+"105","Africa Dataset: Percentage of teachers in upper secondary education who are newly recruited, both sexes (%)",64
+"106","Africa Dataset: Ratio of teacher training graduates to teachers in lower secondary education, both sexes",64
+"107","Africa Dataset: Ratio of teacher training graduates to teachers in lower secondary education, female",64
+"108","Africa Dataset: Ratio of teacher training graduates to teachers in lower secondary education, male",64
+"109","Africa Dataset: Ratio of teacher training graduates to teachers in primary education, both sexes",64
+"110","Africa Dataset: Ratio of teacher training graduates to teachers in primary education, female",64
+"111","Africa Dataset: Ratio of teacher training graduates to teachers in primary education, male",64
+"112","Africa Dataset: Ratio of teacher training graduates to teachers in upper secondary education, both sexes",64
+"113","Africa Dataset: Ratio of teacher training graduates to teachers in upper secondary education, female",64
+"114","Africa Dataset: Ratio of teacher training graduates to teachers in upper secondary education, male",64
+"115","Africa Dataset: School census return rate from primary schools",64
+"116","Africa Dataset: School census return rate from secondary schools",64
+"117","Africa Dataset: Teacher attrition rate from public lower secondary education, both sexes (%)",64
+"118","Africa Dataset: Teacher attrition rate from public lower secondary education, female (%)",64
+"119","Africa Dataset: Teacher attrition rate from public lower secondary education, male (%)",64
+"120","Africa Dataset: Teacher attrition rate from public primary education, both sexes (%)",64
+"121","Africa Dataset: Teacher attrition rate from public primary education, female (%)",64
+"122","Africa Dataset: Teacher attrition rate from public primary education, male (%)",64
+"123","Africa Dataset: Teacher attrition rate from public upper secondary education, both sexes (%)",64
+"124","Africa Dataset: Teacher attrition rate from public upper secondary education, female (%)",64
+"125","Africa Dataset: Teacher attrition rate from public upper secondary education, male (%)",64
+"126","All staff compensation as % of total expenditure in lower secondary public institutions (%)",64
+"127","All staff compensation as % of total expenditure in post-secondary non-tertiary public institutions (%)",64
+"128","All staff compensation as % of total expenditure in pre-primary public institutions (%)",64
+"129","All staff compensation as % of total expenditure in primary public institutions (%)",64
+"130","All staff compensation as % of total expenditure in public institutions (%)",64
+"131","All staff compensation as % of total expenditure in secondary public institutions (%)",64
+"132","All staff compensation as % of total expenditure in tertiary public institutions (%)",64
+"133","All staff compensation as % of total expenditure in upper secondary public institutions (%)",64
+"134","Annual statutory teacher salaries in public institutions in USD. Lower Secondary. 10 years of experience",64
+"135","Annual statutory teacher salaries in public institutions in USD. Lower Secondary. 15 years of experience",64
+"136","Annual statutory teacher salaries in public institutions in USD. Lower Secondary. Starting salary",64
+"137","Annual statutory teacher salaries in public institutions in USD. Lower Secondary. Top of scale",64
+"138","Annual statutory teacher salaries in public institutions in USD. Pre-Primary. 10 years of experience",64
+"139","Annual statutory teacher salaries in public institutions in USD. Pre-Primary. 15 years of experience",64
+"140","Annual statutory teacher salaries in public institutions in USD. Pre-Primary. Starting salary",64
+"141","Annual statutory teacher salaries in public institutions in USD. Pre-Primary. Top of scale",64
+"142","Annual statutory teacher salaries in public institutions in USD. Primary. 10 years of experience",64
+"143","Annual statutory teacher salaries in public institutions in USD. Primary. 15 years of experience",64
+"144","Annual statutory teacher salaries in public institutions in USD. Primary. Starting salary",64
+"145","Annual statutory teacher salaries in public institutions in USD. Primary. Top of scale",64
+"146","Annual statutory teacher salaries in public institutions in USD. Upper Secondary. 10 years of experience",64
+"147","Annual statutory teacher salaries in public institutions in USD. Upper Secondary. 15 years of experience",64
+"148","Annual statutory teacher salaries in public institutions in USD. Upper Secondary. Starting salary",64
+"149","Annual statutory teacher salaries in public institutions in USD. Upper Secondary. Top of scale",64
+"150","Barro-Lee: Average years of primary schooling, age 15-19, female",64
+"151","Barro-Lee: Average years of primary schooling, age 15-19, total",64
+"152","Barro-Lee: Average years of primary schooling, age 15+, female",64
+"153","Barro-Lee: Average years of primary schooling, age 15+, total",64
+"154","Barro-Lee: Average years of primary schooling, age 20-24, female",64
+"155","Barro-Lee: Average years of primary schooling, age 20-24, total",64
+"156","Barro-Lee: Average years of primary schooling, age 25-29, female",64
+"157","Barro-Lee: Average years of primary schooling, age 25-29, total",64
+"158","Barro-Lee: Average years of primary schooling, age 25+, female",64
+"159","Barro-Lee: Average years of primary schooling, age 25+, total",64
+"160","Barro-Lee: Average years of primary schooling, age 30-34, female",64
+"161","Barro-Lee: Average years of primary schooling, age 30-34, total",64
+"162","Barro-Lee: Average years of primary schooling, age 35-39, female",64
+"163","Barro-Lee: Average years of primary schooling, age 35-39, total",64
+"164","Barro-Lee: Average years of primary schooling, age 40-44, female",64
+"165","Barro-Lee: Average years of primary schooling, age 40-44, total",64
+"166","Barro-Lee: Average years of primary schooling, age 45-49, female",64
+"167","Barro-Lee: Average years of primary schooling, age 45-49, total",64
+"168","Barro-Lee: Average years of primary schooling, age 50-54, female",64
+"169","Barro-Lee: Average years of primary schooling, age 50-54, total",64
+"170","Barro-Lee: Average years of primary schooling, age 55-59, female",64
+"171","Barro-Lee: Average years of primary schooling, age 55-59, total",64
+"172","Barro-Lee: Average years of primary schooling, age 60-64, female",64
+"173","Barro-Lee: Average years of primary schooling, age 60-64, total",64
+"174","Barro-Lee: Average years of primary schooling, age 65-69, female",64
+"175","Barro-Lee: Average years of primary schooling, age 65-69, total",64
+"176","Barro-Lee: Average years of primary schooling, age 70-74, female",64
+"177","Barro-Lee: Average years of primary schooling, age 70-74, total",64
+"178","Barro-Lee: Average years of primary schooling, age 75+, female",64
+"179","Barro-Lee: Average years of primary schooling, age 75+, total",64
+"180","Barro-Lee: Average years of secondary schooling, age 15-19, female",64
+"181","Barro-Lee: Average years of secondary schooling, age 15-19, total",64
+"182","Barro-Lee: Average years of secondary schooling, age 15+, female",64
+"183","Barro-Lee: Average years of secondary schooling, age 15+, total",64
+"184","Barro-Lee: Average years of secondary schooling, age 20-24, female",64
+"185","Barro-Lee: Average years of secondary schooling, age 20-24, total",64
+"186","Barro-Lee: Average years of secondary schooling, age 25-29, female",64
+"187","Barro-Lee: Average years of secondary schooling, age 25-29, total",64
+"188","Barro-Lee: Average years of secondary schooling, age 25+, female",64
+"189","Barro-Lee: Average years of secondary schooling, age 25+, total",64
+"190","Barro-Lee: Average years of secondary schooling, age 30-34, female",64
+"191","Barro-Lee: Average years of secondary schooling, age 30-34, total",64
+"192","Barro-Lee: Average years of secondary schooling, age 35-39, female",64
+"193","Barro-Lee: Average years of secondary schooling, age 35-39, total",64
+"194","Barro-Lee: Average years of secondary schooling, age 40-44, female",64
+"195","Barro-Lee: Average years of secondary schooling, age 40-44, total",64
+"196","Barro-Lee: Average years of secondary schooling, age 45-49, female",64
+"197","Barro-Lee: Average years of secondary schooling, age 45-49, total",64
+"198","Barro-Lee: Average years of secondary schooling, age 50-54, female",64
+"199","Barro-Lee: Average years of secondary schooling, age 50-54, total",64
+"200","Barro-Lee: Average years of secondary schooling, age 55-59, female",64
+"201","Barro-Lee: Average years of secondary schooling, age 55-59, total",64
+"202","Barro-Lee: Average years of secondary schooling, age 60-64, female",64
+"203","Barro-Lee: Average years of secondary schooling, age 60-64, total",64
+"204","Barro-Lee: Average years of secondary schooling, age 65-69, female",64
+"205","Barro-Lee: Average years of secondary schooling, age 65-69, total",64
+"206","Barro-Lee: Average years of secondary schooling, age 70-74, female",64
+"207","Barro-Lee: Average years of secondary schooling, age 70-74, total",64
+"208","Barro-Lee: Average years of secondary schooling, age 75+, female",64
+"209","Barro-Lee: Average years of secondary schooling, age 75+, total",64
+"210","Barro-Lee: Average years of tertiary schooling, age 15-19, female",64
+"211","Barro-Lee: Average years of tertiary schooling, age 15-19, total",64
+"212","Barro-Lee: Average years of tertiary schooling, age 15+, female",64
+"213","Barro-Lee: Average years of tertiary schooling, age 15+, total",64
+"214","Barro-Lee: Average years of tertiary schooling, age 20-24, female",64
+"215","Barro-Lee: Average years of tertiary schooling, age 20-24, total",64
+"216","Barro-Lee: Average years of tertiary schooling, age 25-29, female",64
+"217","Barro-Lee: Average years of tertiary schooling, age 25-29, total",64
+"218","Barro-Lee: Average years of tertiary schooling, age 25+, female",64
+"219","Barro-Lee: Average years of tertiary schooling, age 25+, total",64
+"220","Barro-Lee: Average years of tertiary schooling, age 30-34, female",64
+"221","Barro-Lee: Average years of tertiary schooling, age 30-34, total",64
+"222","Barro-Lee: Average years of tertiary schooling, age 35-39, female",64
+"223","Barro-Lee: Average years of tertiary schooling, age 35-39, total",64
+"224","Barro-Lee: Average years of tertiary schooling, age 40-44, female",64
+"225","Barro-Lee: Average years of tertiary schooling, age 40-44, total",64
+"226","Barro-Lee: Average years of tertiary schooling, age 45-49, female",64
+"227","Barro-Lee: Average years of tertiary schooling, age 45-49, total",64
+"228","Barro-Lee: Average years of tertiary schooling, age 50-54, female",64
+"229","Barro-Lee: Average years of tertiary schooling, age 50-54, total",64
+"230","Barro-Lee: Average years of tertiary schooling, age 55-59, female",64
+"231","Barro-Lee: Average years of tertiary schooling, age 55-59, total",64
+"232","Barro-Lee: Average years of tertiary schooling, age 60-64, female",64
+"233","Barro-Lee: Average years of tertiary schooling, age 60-64, total",64
+"234","Barro-Lee: Average years of tertiary schooling, age 65-69, female",64
+"235","Barro-Lee: Average years of tertiary schooling, age 65-69, total",64
+"236","Barro-Lee: Average years of tertiary schooling, age 70-74, female",64
+"237","Barro-Lee: Average years of tertiary schooling, age 70-74, total",64
+"238","Barro-Lee: Average years of tertiary schooling, age 75+, female",64
+"239","Barro-Lee: Average years of tertiary schooling, age 75+, total",64
+"240","Barro-Lee: Average years of total schooling, age 15-19, female",64
+"241","Barro-Lee: Average years of total schooling, age 15-19, total",64
+"242","Barro-Lee: Average years of total schooling, age 15+, female",64
+"243","Barro-Lee: Average years of total schooling, age 15+, total",64
+"244","Barro-Lee: Average years of total schooling, age 20-24, female",64
+"245","Barro-Lee: Average years of total schooling, age 20-24, total",64
+"246","Barro-Lee: Average years of total schooling, age 25-29, female",64
+"247","Barro-Lee: Average years of total schooling, age 25-29, total",64
+"248","Barro-Lee: Average years of total schooling, age 25+, female",64
+"249","Barro-Lee: Average years of total schooling, age 25+, total",64
+"250","Barro-Lee: Average years of total schooling, age 30-34, female",64
+"251","Barro-Lee: Average years of total schooling, age 30-34, total",64
+"252","Barro-Lee: Average years of total schooling, age 35-39, female",64
+"253","Barro-Lee: Average years of total schooling, age 35-39, total",64
+"254","Barro-Lee: Average years of total schooling, age 40-44, female",64
+"255","Barro-Lee: Average years of total schooling, age 40-44, total",64
+"256","Barro-Lee: Average years of total schooling, age 45-49, female",64
+"257","Barro-Lee: Average years of total schooling, age 45-49, total",64
+"258","Barro-Lee: Average years of total schooling, age 50-54, female",64
+"259","Barro-Lee: Average years of total schooling, age 50-54, total",64
+"260","Barro-Lee: Average years of total schooling, age 55-59, female",64
+"261","Barro-Lee: Average years of total schooling, age 55-59, total",64
+"262","Barro-Lee: Average years of total schooling, age 60-64, female",64
+"263","Barro-Lee: Average years of total schooling, age 60-64, total",64
+"264","Barro-Lee: Average years of total schooling, age 65-69, female",64
+"265","Barro-Lee: Average years of total schooling, age 65-69, total",64
+"266","Barro-Lee: Average years of total schooling, age 70-74, female",64
+"267","Barro-Lee: Average years of total schooling, age 70-74, total",64
+"268","Barro-Lee: Average years of total schooling, age 75+, female",64
+"269","Barro-Lee: Average years of total schooling, age 75+, total",64
+"270","Barro-Lee: Percentage of female population age 15-19 with no education",64
+"271","Barro-Lee: Percentage of female population age 15-19 with primary schooling. Completed Primary",64
+"272","Barro-Lee: Percentage of female population age 15-19 with primary schooling. Total (Incomplete and Completed Primary)",64
+"273","Barro-Lee: Percentage of female population age 15-19 with secondary schooling. Completed Secondary",64
+"274","Barro-Lee: Percentage of female population age 15-19 with secondary schooling. Total (Incomplete and Completed Secondary)",64
+"275","Barro-Lee: Percentage of female population age 15-19 with tertiary schooling. Completed Tertiary",64
+"276","Barro-Lee: Percentage of female population age 15-19 with tertiary schooling. Total (Incomplete and Completed Tertiary)",64
+"277","Barro-Lee: Percentage of female population age 15+ with no education",64
+"278","Barro-Lee: Percentage of female population age 15+ with primary schooling. Completed Primary",64
+"279","Barro-Lee: Percentage of female population age 15+ with primary schooling. Total (Incomplete and Completed Primary)",64
+"280","Barro-Lee: Percentage of female population age 15+ with secondary schooling. Completed Secondary",64
+"281","Barro-Lee: Percentage of female population age 15+ with secondary schooling. Total (Incomplete and Completed Secondary)",64
+"282","Barro-Lee: Percentage of female population age 15+ with tertiary schooling. Completed Tertiary",64
+"283","Barro-Lee: Percentage of female population age 15+ with tertiary schooling. Total (Incomplete and Completed Tertiary)",64
+"284","Barro-Lee: Percentage of female population age 20-24 with no education",64
+"285","Barro-Lee: Percentage of female population age 20-24 with primary schooling. Completed Primary",64
+"286","Barro-Lee: Percentage of female population age 20-24 with primary schooling. Total (Incomplete and Completed Primary)",64
+"287","Barro-Lee: Percentage of female population age 20-24 with secondary schooling. Completed Secondary",64
+"288","Barro-Lee: Percentage of female population age 20-24 with secondary schooling. Total (Incomplete and Completed Secondary)",64
+"289","Barro-Lee: Percentage of female population age 20-24 with tertiary schooling. Completed Tertiary",64
+"290","Barro-Lee: Percentage of female population age 20-24 with tertiary schooling. Total (Incomplete and Completed Tertiary)",64
+"291","Barro-Lee: Percentage of female population age 25-29 with no education",64
+"292","Barro-Lee: Percentage of female population age 25-29 with primary schooling. Completed Primary",64
+"293","Barro-Lee: Percentage of female population age 25-29 with primary schooling. Total (Incomplete and Completed Primary)",64
+"294","Barro-Lee: Percentage of female population age 25-29 with secondary schooling. Completed Secondary",64
+"295","Barro-Lee: Percentage of female population age 25-29 with secondary schooling. Total (Incomplete and Completed Secondary)",64
+"296","Barro-Lee: Percentage of female population age 25-29 with tertiary schooling. Completed Tertiary",64
+"297","Barro-Lee: Percentage of female population age 25-29 with tertiary schooling. Total (Incomplete and Completed Tertiary)",64
+"298","Barro-Lee: Percentage of female population age 25+ with no education",64
+"299","Barro-Lee: Percentage of female population age 25+ with primary schooling. Completed Primary",64
+"300","Barro-Lee: Percentage of female population age 25+ with primary schooling. Total (Incomplete and Completed Primary)",64
+"301","Barro-Lee: Percentage of female population age 25+ with secondary schooling. Completed Secondary",64
+"302","Barro-Lee: Percentage of female population age 25+ with secondary schooling. Total (Incomplete and Completed Secondary)",64
+"303","Barro-Lee: Percentage of female population age 25+ with tertiary schooling. Completed Tertiary",64
+"304","Barro-Lee: Percentage of female population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary)",64
+"305","Barro-Lee: Percentage of female population age 30-34 with no education",64
+"306","Barro-Lee: Percentage of female population age 30-34 with primary schooling. Completed Primary",64
+"307","Barro-Lee: Percentage of female population age 30-34 with primary schooling. Total (Incomplete and Completed Primary)",64
+"308","Barro-Lee: Percentage of female population age 30-34 with secondary schooling. Completed Secondary",64
+"309","Barro-Lee: Percentage of female population age 30-34 with secondary schooling. Total (Incomplete and Completed Secondary)",64
+"310","Barro-Lee: Percentage of female population age 30-34 with tertiary schooling. Completed Tertiary",64
+"311","Barro-Lee: Percentage of female population age 30-34 with tertiary schooling. Total (Incomplete and Completed Tertiary)",64
+"312","Barro-Lee: Percentage of female population age 35-39 with no education",64
+"313","Barro-Lee: Percentage of female population age 35-39 with primary schooling. Completed Primary",64
+"314","Barro-Lee: Percentage of female population age 35-39 with primary schooling. Total (Incomplete and Completed Primary)",64
+"315","Barro-Lee: Percentage of female population age 35-39 with secondary schooling. Completed Secondary",64
+"316","Barro-Lee: Percentage of female population age 35-39 with secondary schooling. Total (Incomplete and Completed Secondary)",64
+"317","Barro-Lee: Percentage of female population age 35-39 with tertiary schooling. Completed Tertiary",64
+"318","Barro-Lee: Percentage of female population age 35-39 with tertiary schooling. Total (Incomplete and Completed Tertiary)",64
+"319","Barro-Lee: Percentage of female population age 40-44 with no education",64
+"320","Barro-Lee: Percentage of female population age 40-44 with primary schooling. Completed Primary",64
+"321","Barro-Lee: Percentage of female population age 40-44 with primary schooling. Total (Incomplete and Completed Primary)",64
+"322","Barro-Lee: Percentage of female population age 40-44 with secondary schooling. Completed Secondary",64
+"323","Barro-Lee: Percentage of female population age 40-44 with secondary schooling. Total (Incomplete and Completed Secondary)",64
+"324","Barro-Lee: Percentage of female population age 40-44 with tertiary schooling. Completed Tertiary",64
+"325","Barro-Lee: Percentage of female population age 40-44 with tertiary schooling. Total (Incomplete and Completed Tertiary)",64
+"326","Barro-Lee: Percentage of female population age 45-49 with no education",64
+"327","Barro-Lee: Percentage of female population age 45-49 with primary schooling. Completed Primary",64
+"328","Barro-Lee: Percentage of female population age 45-49 with primary schooling. Total (Incomplete and Completed Primary)",64
+"329","Barro-Lee: Percentage of female population age 45-49 with secondary schooling. Completed Secondary",64
+"330","Barro-Lee: Percentage of female population age 45-49 with secondary schooling. Total (Incomplete and Completed Secondary)",64
+"331","Barro-Lee: Percentage of female population age 45-49 with tertiary schooling. Completed Tertiary",64
+"332","Barro-Lee: Percentage of female population age 45-49 with tertiary schooling. Total (Incomplete and Completed Tertiary)",64
+"333","Barro-Lee: Percentage of female population age 50-54 with no education",64
+"334","Barro-Lee: Percentage of female population age 50-54 with primary schooling. Completed Primary",64
+"335","Barro-Lee: Percentage of female population age 50-54 with primary schooling. Total (Incomplete and Completed Primary)",64
+"336","Barro-Lee: Percentage of female population age 50-54 with secondary schooling. Completed Secondary",64
+"337","Barro-Lee: Percentage of female population age 50-54 with secondary schooling. Total (Incomplete and Completed Secondary)",64
+"338","Barro-Lee: Percentage of female population age 50-54 with tertiary schooling. Completed Tertiary",64
+"339","Barro-Lee: Percentage of female population age 50-54 with tertiary schooling. Total (Incomplete and Completed Tertiary)",64
+"340","Barro-Lee: Percentage of female population age 55-59 with no education",64
+"341","Barro-Lee: Percentage of female population age 55-59 with primary schooling. Completed Primary",64
+"342","Barro-Lee: Percentage of female population age 55-59 with primary schooling. Total (Incomplete and Completed Primary)",64
+"343","Barro-Lee: Percentage of female population age 55-59 with secondary schooling. Completed Secondary",64
+"344","Barro-Lee: Percentage of female population age 55-59 with secondary schooling. Total (Incomplete and Completed Secondary)",64
+"345","Barro-Lee: Percentage of female population age 55-59 with tertiary schooling. Completed Tertiary",64
+"346","Barro-Lee: Percentage of female population age 55-59 with tertiary schooling. Total (Incomplete and Completed Tertiary)",64
+"347","Barro-Lee: Percentage of female population age 60-64 with no education",64
+"348","Barro-Lee: Percentage of female population age 60-64 with primary schooling. Completed Primary",64
+"349","Barro-Lee: Percentage of female population age 60-64 with primary schooling. Total (Incomplete and Completed Primary)",64
+"350","Barro-Lee: Percentage of female population age 60-64 with secondary schooling. Completed Secondary",64
+"351","Barro-Lee: Percentage of female population age 60-64 with secondary schooling. Total (Incomplete and Completed Secondary)",64
+"352","Barro-Lee: Percentage of female population age 60-64 with tertiary schooling. Completed Tertiary",64
+"353","Barro-Lee: Percentage of female population age 60-64 with tertiary schooling. Total (Incomplete and Completed Tertiary)",64
+"354","Barro-Lee: Percentage of female population age 65-69 with no education",64
+"355","Barro-Lee: Percentage of female population age 65-69 with primary schooling. Completed Primary",64
+"356","Barro-Lee: Percentage of female population age 65-69 with primary schooling. Total (Incomplete and Completed Primary)",64
+"357","Barro-Lee: Percentage of female population age 65-69 with secondary schooling. Completed Secondary",64
+"358","Barro-Lee: Percentage of female population age 65-69 with secondary schooling. Total (Incomplete and Completed Secondary)",64
+"359","Barro-Lee: Percentage of female population age 65-69 with tertiary schooling. Completed Tertiary",64
+"360","Barro-Lee: Percentage of female population age 65-69 with tertiary schooling. Total (Incomplete and Completed Tertiary)",64
+"361","Barro-Lee: Percentage of female population age 70-74 with no education",64
+"362","Barro-Lee: Percentage of female population age 70-74 with primary schooling. Completed Primary",64
+"363","Barro-Lee: Percentage of female population age 70-74 with primary schooling. Total (Incomplete and Completed Primary)",64
+"364","Barro-Lee: Percentage of female population age 70-74 with secondary schooling. Completed Secondary",64
+"365","Barro-Lee: Percentage of female population age 70-74 with secondary schooling. Total (Incomplete and Completed Secondary)",64
+"366","Barro-Lee: Percentage of female population age 70-74 with tertiary schooling. Completed Tertiary",64
+"367","Barro-Lee: Percentage of female population age 70-74 with tertiary schooling. Total (Incomplete and Completed Tertiary)",64
+"368","Barro-Lee: Percentage of female population age 75+ with no education",64
+"369","Barro-Lee: Percentage of female population age 75+ with primary schooling. Completed Primary",64
+"370","Barro-Lee: Percentage of female population age 75+ with primary schooling. Total (Incomplete and Completed Primary)",64
+"371","Barro-Lee: Percentage of female population age 75+ with secondary schooling. Completed Secondary",64
+"372","Barro-Lee: Percentage of female population age 75+ with secondary schooling. Total (Incomplete and Completed Secondary)",64
+"373","Barro-Lee: Percentage of female population age 75+ with tertiary schooling. Completed Tertiary",64
+"374","Barro-Lee: Percentage of female population age 75+ with tertiary schooling. Total (Incomplete and Completed Tertiary)",64
+"375","Barro-Lee: Percentage of population age 15-19 with no education",64
+"376","Barro-Lee: Percentage of population age 15-19 with primary schooling. Completed Primary",64
+"377","Barro-Lee: Percentage of population age 15-19 with primary schooling. Total (Incomplete and Completed Primary)",64
+"378","Barro-Lee: Percentage of population age 15-19 with secondary schooling. Completed Secondary",64
+"379","Barro-Lee: Percentage of population age 15-19 with secondary schooling. Total (Incomplete and Completed Secondary)",64
+"380","Barro-Lee: Percentage of population age 15-19 with tertiary schooling. Completed Tertiary",64
+"381","Barro-Lee: Percentage of population age 15-19 with tertiary schooling. Total (Incomplete and Completed Tertiary)",64
+"382","Barro-Lee: Percentage of population age 15+ with no education",64
+"383","Barro-Lee: Percentage of population age 15+ with primary schooling. Completed Primary",64
+"384","Barro-Lee: Percentage of population age 15+ with primary schooling. Total (Incomplete and Completed Primary)",64
+"385","Barro-Lee: Percentage of population age 15+ with secondary schooling. Completed Secondary",64
+"386","Barro-Lee: Percentage of population age 15+ with secondary schooling. Total (Incomplete and Completed Secondary)",64
+"387","Barro-Lee: Percentage of population age 15+ with tertiary schooling. Completed Tertiary",64
+"388","Barro-Lee: Percentage of population age 15+ with tertiary schooling. Total (Incomplete and Completed Tertiary)",64
+"389","Barro-Lee: Percentage of population age 20-24 with no education",64
+"390","Barro-Lee: Percentage of population age 20-24 with primary schooling. Completed Primary",64
+"391","Barro-Lee: Percentage of population age 20-24 with primary schooling. Total (Incomplete and Completed Primary)",64
+"392","Barro-Lee: Percentage of population age 20-24 with secondary schooling. Completed Secondary",64
+"393","Barro-Lee: Percentage of population age 20-24 with secondary schooling. Total (Incomplete and Completed Secondary)",64
+"394","Barro-Lee: Percentage of population age 20-24 with tertiary schooling. Completed Tertiary",64
+"395","Barro-Lee: Percentage of population age 20-24 with tertiary schooling. Total (Incomplete and Completed Tertiary)",64
+"396","Barro-Lee: Percentage of population age 25-29 with no education",64
+"397","Barro-Lee: Percentage of population age 25-29 with primary schooling. Completed Primary",64
+"398","Barro-Lee: Percentage of population age 25-29 with primary schooling. Total (Incomplete and Completed Primary)",64
+"399","Barro-Lee: Percentage of population age 25-29 with secondary schooling. Completed Secondary",64
+"400","Barro-Lee: Percentage of population age 25-29 with secondary schooling. Total (Incomplete and Completed Secondary)",64
+"401","Barro-Lee: Percentage of population age 25-29 with tertiary schooling. Completed Tertiary",64
+"402","Barro-Lee: Percentage of population age 25-29 with tertiary schooling. Total (Incomplete and Completed Tertiary)",64
+"403","Barro-Lee: Percentage of population age 25+ with no education",64
+"404","Barro-Lee: Percentage of population age 25+ with primary schooling. Completed Primary",64
+"405","Barro-Lee: Percentage of population age 25+ with primary schooling. Total (Incomplete and Completed Primary)",64
+"406","Barro-Lee: Percentage of population age 25+ with secondary schooling. Completed Secondary",64
+"407","Barro-Lee: Percentage of population age 25+ with secondary schooling. Total (Incomplete and Completed Secondary)",64
+"408","Barro-Lee: Percentage of population age 25+ with tertiary schooling. Completed Tertiary",64
+"409","Barro-Lee: Percentage of population age 25+ with tertiary schooling. Total (Incomplete and Completed Tertiary)",64
+"410","Barro-Lee: Percentage of population age 30-34 with no education",64
+"411","Barro-Lee: Percentage of population age 30-34 with primary schooling. Completed Primary",64
+"412","Barro-Lee: Percentage of population age 30-34 with primary schooling. Total (Incomplete and Completed Primary)",64
+"413","Barro-Lee: Percentage of population age 30-34 with secondary schooling. Completed Secondary",64
+"414","Barro-Lee: Percentage of population age 30-34 with secondary schooling. Total (Incomplete and Completed Secondary)",64
+"415","Barro-Lee: Percentage of population age 30-34 with tertiary schooling. Completed Tertiary",64
+"416","Barro-Lee: Percentage of population age 30-34 with tertiary schooling. Total (Incomplete and Completed Tertiary)",64
+"417","Barro-Lee: Percentage of population age 35-39 with no education",64
+"418","Barro-Lee: Percentage of population age 35-39 with primary schooling. Completed Primary",64
+"419","Barro-Lee: Percentage of population age 35-39 with primary schooling. Total (Incomplete and Completed Primary)",64
+"420","Barro-Lee: Percentage of population age 35-39 with secondary schooling. Completed Secondary",64
+"421","Barro-Lee: Percentage of population age 35-39 with secondary schooling. Total (Incomplete and Completed Secondary)",64
+"422","Barro-Lee: Percentage of population age 35-39 with tertiary schooling. Completed Tertiary",64
+"423","Barro-Lee: Percentage of population age 35-39 with tertiary schooling. Total (Incomplete and Completed Tertiary)",64
+"424","Barro-Lee: Percentage of population age 40-44 with no education",64
+"425","Barro-Lee: Percentage of population age 40-44 with primary schooling. Completed Primary",64
+"426","Barro-Lee: Percentage of population age 40-44 with primary schooling. Total (Incomplete and Completed Primary)",64
+"427","Barro-Lee: Percentage of population age 40-44 with secondary schooling. Completed Secondary",64
+"428","Barro-Lee: Percentage of population age 40-44 with secondary schooling. Total (Incomplete and Completed Secondary)",64
+"429","Barro-Lee: Percentage of population age 40-44 with tertiary schooling. Completed Tertiary",64
+"430","Barro-Lee: Percentage of population age 40-44 with tertiary schooling. Total (Incomplete and Completed Tertiary)",64
+"431","Barro-Lee: Percentage of population age 45-49 with no education",64
+"432","Barro-Lee: Percentage of population age 45-49 with primary schooling. Completed Primary",64
+"433","Barro-Lee: Percentage of population age 45-49 with primary schooling. Total (Incomplete and Completed Primary)",64
+"434","Barro-Lee: Percentage of population age 45-49 with secondary schooling. Completed Secondary",64
+"435","Barro-Lee: Percentage of population age 45-49 with secondary schooling. Total (Incomplete and Completed Secondary)",64
+"436","Barro-Lee: Percentage of population age 45-49 with tertiary schooling. Completed Tertiary",64
+"437","Barro-Lee: Percentage of population age 45-49 with tertiary schooling. Total (Incomplete and Completed Tertiary)",64
+"438","Barro-Lee: Percentage of population age 50-54 with no education",64
+"439","Barro-Lee: Percentage of population age 50-54 with primary schooling. Completed Primary",64
+"440","Barro-Lee: Percentage of population age 50-54 with primary schooling. Total (Incomplete and Completed Primary)",64
+"441","Barro-Lee: Percentage of population age 50-54 with secondary schooling. Completed Secondary",64
+"442","Barro-Lee: Percentage of population age 50-54 with secondary schooling. Total (Incomplete and Completed Secondary)",64
+"443","Barro-Lee: Percentage of population age 50-54 with tertiary schooling. Completed Tertiary",64
+"444","Barro-Lee: Percentage of population age 50-54 with tertiary schooling. Total (Incomplete and Completed Tertiary)",64
+"445","Barro-Lee: Percentage of population age 55-59 with no education",64
+"446","Barro-Lee: Percentage of population age 55-59 with primary schooling. Completed Primary",64
+"447","Barro-Lee: Percentage of population age 55-59 with primary schooling. Total (Incomplete and Completed Primary)",64
+"448","Barro-Lee: Percentage of population age 55-59 with secondary schooling. Completed Secondary",64
+"449","Barro-Lee: Percentage of population age 55-59 with secondary schooling. Total (Incomplete and Completed Secondary)",64
+"450","Barro-Lee: Percentage of population age 55-59 with tertiary schooling. Completed Tertiary",64
+"451","Barro-Lee: Percentage of population age 55-59 with tertiary schooling. Total (Incomplete and Completed Tertiary)",64
+"452","Barro-Lee: Percentage of population age 60-64 with no education",64
+"453","Barro-Lee: Percentage of population age 60-64 with primary schooling. Completed Primary",64
+"454","Barro-Lee: Percentage of population age 60-64 with primary schooling. Total (Incomplete and Completed Primary)",64
+"455","Barro-Lee: Percentage of population age 60-64 with secondary schooling. Completed Secondary",64
+"456","Barro-Lee: Percentage of population age 60-64 with secondary schooling. Total (Incomplete and Completed Secondary)",64
+"457","Barro-Lee: Percentage of population age 60-64 with tertiary schooling. Completed Tertiary",64
+"458","Barro-Lee: Percentage of population age 60-64 with tertiary schooling. Total (Incomplete and Completed Tertiary)",64
+"459","Barro-Lee: Percentage of population age 65-69 with no education",64
+"460","Barro-Lee: Percentage of population age 65-69 with primary schooling. Completed Primary",64
+"461","Barro-Lee: Percentage of population age 65-69 with primary schooling. Total (Incomplete and Completed Primary)",64
+"462","Barro-Lee: Percentage of population age 65-69 with secondary schooling. Completed Secondary",64
+"463","Barro-Lee: Percentage of population age 65-69 with secondary schooling. Total (Incomplete and Completed Secondary)",64
+"464","Barro-Lee: Percentage of population age 65-69 with tertiary schooling. Completed Tertiary",64
+"465","Barro-Lee: Percentage of population age 65-69 with tertiary schooling. Total (Incomplete and Completed Tertiary)",64
+"466","Barro-Lee: Percentage of population age 70-74 with no education",64
+"467","Barro-Lee: Percentage of population age 70-74 with primary schooling. Completed Primary",64
+"468","Barro-Lee: Percentage of population age 70-74 with primary schooling. Total (Incomplete and Completed Primary)",64
+"469","Barro-Lee: Percentage of population age 70-74 with secondary schooling. Completed Secondary",64
+"470","Barro-Lee: Percentage of population age 70-74 with secondary schooling. Total (Incomplete and Completed Secondary)",64
+"471","Barro-Lee: Percentage of population age 70-74 with tertiary schooling. Completed Tertiary",64
+"472","Barro-Lee: Percentage of population age 70-74 with tertiary schooling. Total (Incomplete and Completed Tertiary)",64
+"473","Barro-Lee: Percentage of population age 75+ with no education",64
+"474","Barro-Lee: Percentage of population age 75+ with primary schooling. Completed Primary",64
+"475","Barro-Lee: Percentage of population age 75+ with primary schooling. Total (Incomplete and Completed Primary)",64
+"476","Barro-Lee: Percentage of population age 75+ with secondary schooling. Completed Secondary",64
+"477","Barro-Lee: Percentage of population age 75+ with secondary schooling. Total (Incomplete and Completed Secondary)",64
+"478","Barro-Lee: Percentage of population age 75+ with tertiary schooling. Completed Tertiary",64
+"479","Barro-Lee: Percentage of population age 75+ with tertiary schooling. Total (Incomplete and Completed Tertiary)",64
+"480","Barro-Lee: Population in thousands, age 15-19, female",64
+"481","Barro-Lee: Population in thousands, age 15-19, total",64
+"482","Barro-Lee: Population in thousands, age 15+, female",64
+"483","Barro-Lee: Population in thousands, age 15+, total",64
+"484","Barro-Lee: Population in thousands, age 20-24, female",64
+"485","Barro-Lee: Population in thousands, age 20-24, total",64
+"486","Barro-Lee: Population in thousands, age 25-29, female",64
+"487","Barro-Lee: Population in thousands, age 25-29, total",64
+"488","Barro-Lee: Population in thousands, age 25+, female",64
+"489","Barro-Lee: Population in thousands, age 25+, total",64
+"490","Barro-Lee: Population in thousands, age 30-34, female",64
+"491","Barro-Lee: Population in thousands, age 30-34, total",64
+"492","Barro-Lee: Population in thousands, age 35-39, female",64
+"493","Barro-Lee: Population in thousands, age 35-39, total",64
+"494","Barro-Lee: Population in thousands, age 40-44, female",64
+"495","Barro-Lee: Population in thousands, age 40-44, total",64
+"496","Barro-Lee: Population in thousands, age 45-49, female",64
+"497","Barro-Lee: Population in thousands, age 45-49, total",64
+"498","Barro-Lee: Population in thousands, age 50-54, female",64
+"499","Barro-Lee: Population in thousands, age 50-54, total",64
+"500","Barro-Lee: Population in thousands, age 55-59, female",64
+"501","Barro-Lee: Population in thousands, age 55-59, total",64
+"502","Barro-Lee: Population in thousands, age 60-64, female",64
+"503","Barro-Lee: Population in thousands, age 60-64, total",64
+"504","Barro-Lee: Population in thousands, age 65-69, female",64
+"505","Barro-Lee: Population in thousands, age 65-69, total",64
+"506","Barro-Lee: Population in thousands, age 70-74, female",64
+"507","Barro-Lee: Population in thousands, age 70-74, total",64
+"508","Barro-Lee: Population in thousands, age 75+, female",64
+"509","Barro-Lee: Population in thousands, age 75+, total",64
+"510","Capital expenditure as % of total expenditure in lower secondary public institutions (%)",64
+"511","Capital expenditure as % of total expenditure in post-secondary non-tertiary public institutions (%)",64
+"512","Capital expenditure as % of total expenditure in pre-primary public institutions (%)",64
+"513","Capital expenditure as % of total expenditure in primary public institutions (%)",64
+"514","Capital expenditure as % of total expenditure in public institutions (%)",64
+"515","Capital expenditure as % of total expenditure in secondary public institutions (%)",64
+"516","Capital expenditure as % of total expenditure in tertiary public institutions (%)",64
+"517","Capital expenditure as % of total expenditure in upper-secondary public institutions (%)",64
+"518","Cumulative drop-out rate to the last grade of lower secondary general education, both sexes (%)",64
+"519","Cumulative drop-out rate to the last grade of lower secondary general education, female (%)",64
+"520","Cumulative drop-out rate to the last grade of lower secondary general education, male (%)",64
+"521","Cumulative drop-out rate to the last grade of primary education, both sexes (%)",64
+"522","Cumulative drop-out rate to the last grade of primary education, female (%)",64
+"523","Cumulative drop-out rate to the last grade of primary education, male (%)",64
+"524","Current expenditure as % of total expenditure in lower secondary public institutions (%)",64
+"525","Current expenditure as % of total expenditure in post-secondary non-tertiary public institutions (%)",64
+"526","Current expenditure as % of total expenditure in pre-primary public institutions (%)",64
+"527","Current expenditure as % of total expenditure in primary public institutions (%)",64
+"528","Current expenditure as % of total expenditure in public institutions (%)",64
+"529","Current expenditure as % of total expenditure in secondary public institutions (%)",64
+"530","Current expenditure as % of total expenditure in tertiary public institutions (%)",64
+"531","Current expenditure as % of total expenditure in upper-secondary public institutions (%)",64
+"532","Current expenditure other than staff compensation as % of total expenditure in lower secondary public institutions (%)",64
+"533","Current expenditure other than staff compensation as % of total expenditure in post-secondary non-tertiary public institutions (%)",64
+"534","Current expenditure other than staff compensation as % of total expenditure in pre-primary public institutions (%)",64
+"535","Current expenditure other than staff compensation as % of total expenditure in primary public institutions (%)",64
+"536","Current expenditure other than staff compensation as % of total expenditure in public institutions (%)",64
+"537","Current expenditure other than staff compensation as % of total expenditure in secondary public institutions (%)",64
+"538","Current expenditure other than staff compensation as % of total expenditure in tertiary public institutions (%)",64
+"539","Current expenditure other than staff compensation as % of total expenditure in upper secondary public institutions (%)",64
+"540","DHS: Average years of schooling by age group. Age 15-19",64
+"541","DHS: Average years of schooling by age group. Age 15-19. Female",64
+"542","DHS: Average years of schooling by age group. Age 15-19. Male",64
+"543","DHS: Average years of schooling by age group. Age 15-19. Quintile 1",64
+"544","DHS: Average years of schooling by age group. Age 15-19. Quintile 2",64
+"545","DHS: Average years of schooling by age group. Age 15-19. Quintile 3",64
+"546","DHS: Average years of schooling by age group. Age 15-19. Quintile 4",64
+"547","DHS: Average years of schooling by age group. Age 15-19. Quintile 5",64
+"548","DHS: Average years of schooling by age group. Age 15-19. Rural",64
+"549","DHS: Average years of schooling by age group. Age 15-19. Urban",64
+"550","DHS: Gini coefficient of average years of schooling. Age 15+",64
+"551","DHS: Gini coefficient of average years of schooling. Age 15+. Female",64
+"552","DHS: Gini coefficient of average years of schooling. Age 15+. Male",64
+"553","DHS: Gini coefficient of average years of schooling. Age 15+. Quintile 1",64
+"554","DHS: Gini coefficient of average years of schooling. Age 15+. Quintile 2",64
+"555","DHS: Gini coefficient of average years of schooling. Age 15+. Quintile 3",64
+"556","DHS: Gini coefficient of average years of schooling. Age 15+. Quintile 4",64
+"557","DHS: Gini coefficient of average years of schooling. Age 15+. Quintile 5",64
+"558","DHS: Gini coefficient of average years of schooling. Age 15+. Rural",64
+"559","DHS: Gini coefficient of average years of schooling. Age 15+. Urban",64
+"560","DHS: Gross attendance rate. Post Secondary",64
+"561","DHS: Gross attendance rate. Post Secondary. Female",64
+"562","DHS: Gross attendance rate. Post Secondary. Male",64
+"563","DHS: Gross attendance rate. Post Secondary. Quintile 1",64
+"564","DHS: Gross attendance rate. Post Secondary. Quintile 2",64
+"565","DHS: Gross attendance rate. Post Secondary. Quintile 3",64
+"566","DHS: Gross attendance rate. Post Secondary. Quintile 4",64
+"567","DHS: Gross attendance rate. Post Secondary. Quintile 5",64
+"568","DHS: Gross attendance rate. Post Secondary. Rural",64
+"569","DHS: Gross attendance rate. Post Secondary. Urban",64
+"570","DHS: Net attendance rate. Primary",64
+"571","DHS: Net attendance rate. Primary. Female",64
+"572","DHS: Net attendance rate. Primary. Male",64
+"573","DHS: Net attendance rate. Primary. Quintile 1",64
+"574","DHS: Net attendance rate. Primary. Quintile 2",64
+"575","DHS: Net attendance rate. Primary. Quintile 3",64
+"576","DHS: Net attendance rate. Primary. Quintile 4",64
+"577","DHS: Net attendance rate. Primary. Quintile 5",64
+"578","DHS: Net attendance rate. Primary. Rural",64
+"579","DHS: Net attendance rate. Primary. Urban",64
+"580","DHS: Net attendance rate. Secondary",64
+"581","DHS: Net attendance rate. Secondary. Female",64
+"582","DHS: Net attendance rate. Secondary. Male",64
+"583","DHS: Net attendance rate. Secondary. Quintile 1",64
+"584","DHS: Net attendance rate. Secondary. Quintile 2",64
+"585","DHS: Net attendance rate. Secondary. Quintile 3",64
+"586","DHS: Net attendance rate. Secondary. Quintile 4",64
+"587","DHS: Net attendance rate. Secondary. Quintile 5",64
+"588","DHS: Net attendance rate. Secondary. Rural",64
+"589","DHS: Net attendance rate. Secondary. Urban",64
+"590","DHS: Net intake rate for the first grade of primary education",64
+"591","DHS: Net intake rate for the first grade of primary education. Female",64
+"592","DHS: Net intake rate for the first grade of primary education. Male",64
+"593","DHS: Net intake rate for the first grade of primary education. Quintile 1",64
+"594","DHS: Net intake rate for the first grade of primary education. Quintile 2",64
+"595","DHS: Net intake rate for the first grade of primary education. Quintile 3",64
+"596","DHS: Net intake rate for the first grade of primary education. Quintile 4",64
+"597","DHS: Net intake rate for the first grade of primary education. Quintile 5",64
+"598","DHS: Net intake rate for the first grade of primary education. Rural",64
+"599","DHS: Net intake rate for the first grade of primary education. Urban",64
+"600","DHS: Primary completion rate",64
+"601","DHS: Primary completion rate. Female",64
+"602","DHS: Primary completion rate. Male",64
+"603","DHS: Primary completion rate. Quintile 1",64
+"604","DHS: Primary completion rate. Quintile 2",64
+"605","DHS: Primary completion rate. Quintile 3",64
+"606","DHS: Primary completion rate. Quintile 4",64
+"607","DHS: Primary completion rate. Quintile 5",64
+"608","DHS: Primary completion rate. Rural",64
+"609","DHS: Primary completion rate. Urban",64
+"610","DHS: Proportion of out-of-school. Primary",64
+"611","DHS: Proportion of out-of-school. Primary. Female",64
+"612","DHS: Proportion of out-of-school. Primary. Male",64
+"613","DHS: Proportion of out-of-school. Primary. Quintile 1",64
+"614","DHS: Proportion of out-of-school. Primary. Quintile 2",64
+"615","DHS: Proportion of out-of-school. Primary. Quintile 3",64
+"616","DHS: Proportion of out-of-school. Primary. Quintile 4",64
+"617","DHS: Proportion of out-of-school. Primary. Quintile 5",64
+"618","DHS: Proportion of out-of-school. Primary. Rural",64
+"619","DHS: Proportion of out-of-school. Primary. Urban",64
+"620","DHS: Secondary completion rate",64
+"621","DHS: Secondary completion rate. Female",64
+"622","DHS: Secondary completion rate. Male",64
+"623","DHS: Secondary completion rate. Quintile 1",64
+"624","DHS: Secondary completion rate. Quintile 2",64
+"625","DHS: Secondary completion rate. Quintile 3",64
+"626","DHS: Secondary completion rate. Quintile 4",64
+"627","DHS: Secondary completion rate. Quintile 5",64
+"628","DHS: Secondary completion rate. Rural",64
+"629","DHS: Secondary completion rate. Urban",64
+"630","DHS: Transition rate. Primary to Secondary",64
+"631","DHS: Transition rate. Primary to Secondary. Female",64
+"632","DHS: Transition rate. Primary to Secondary. Male",64
+"633","DHS: Transition rate. Primary to Secondary. Quintile 1",64
+"634","DHS: Transition rate. Primary to Secondary. Quintile 2",64
+"635","DHS: Transition rate. Primary to Secondary. Quintile 3",64
+"636","DHS: Transition rate. Primary to Secondary. Quintile 4",64
+"637","DHS: Transition rate. Primary to Secondary. Quintile 5",64
+"638","DHS: Transition rate. Primary to Secondary. Rural",64
+"639","DHS: Transition rate. Primary to Secondary. Urban",64
+"640","DHS: Typology of out-of-school children. Primary. Dropped out",64
+"641","DHS: Typology of out-of-school children. Primary. Dropped out. Female",64
+"642","DHS: Typology of out-of-school children. Primary. Dropped out. Male",64
+"643","DHS: Typology of out-of-school children. Primary. Dropped out. Quintile 1",64
+"644","DHS: Typology of out-of-school children. Primary. Dropped out. Quintile 2",64
+"645","DHS: Typology of out-of-school children. Primary. Dropped out. Quintile 3",64
+"646","DHS: Typology of out-of-school children. Primary. Dropped out. Quintile 4",64
+"647","DHS: Typology of out-of-school children. Primary. Dropped out. Quintile 5",64
+"648","DHS: Typology of out-of-school children. Primary. Dropped out. Rural",64
+"649","DHS: Typology of out-of-school children. Primary. Dropped out. Urban",64
+"650","DHS: Typology of out-of-school children. Primary. Late entry",64
+"651","DHS: Typology of out-of-school children. Primary. Late entry. Female",64
+"652","DHS: Typology of out-of-school children. Primary. Late entry. Male",64
+"653","DHS: Typology of out-of-school children. Primary. Late entry. Quintile 1",64
+"654","DHS: Typology of out-of-school children. Primary. Late entry. Quintile 2",64
+"655","DHS: Typology of out-of-school children. Primary. Late entry. Quintile 3",64
+"656","DHS: Typology of out-of-school children. Primary. Late entry. Quintile 4",64
+"657","DHS: Typology of out-of-school children. Primary. Late entry. Quintile 5",64
+"658","DHS: Typology of out-of-school children. Primary. Late entry. Rural",64
+"659","DHS: Typology of out-of-school children. Primary. Late entry. Urban",64
+"660","DHS: Typology of out-of-school children. Primary. Never in school",64
+"661","DHS: Typology of out-of-school children. Primary. Never in school. Female",64
+"662","DHS: Typology of out-of-school children. Primary. Never in school. Male",64
+"663","DHS: Typology of out-of-school children. Primary. Never in school. Quintile 1",64
+"664","DHS: Typology of out-of-school children. Primary. Never in school. Quintile 2",64
+"665","DHS: Typology of out-of-school children. Primary. Never in school. Quintile 3",64
+"666","DHS: Typology of out-of-school children. Primary. Never in school. Quintile 4",64
+"667","DHS: Typology of out-of-school children. Primary. Never in school. Quintile 5",64
+"668","DHS: Typology of out-of-school children. Primary. Never in school. Rural",64
+"669","DHS: Typology of out-of-school children. Primary. Never in school. Urban",64
+"670","Drop-out rate from Grade 1 of lower secondary general education, both sexes (%)",64
+"671","Drop-out rate from Grade 1 of lower secondary general education, female (%)",64
+"672","Drop-out rate from Grade 1 of lower secondary general education, male (%)",64
+"673","Drop-out rate from Grade 1 of primary education, both sexes (%)",64
+"674","Drop-out rate from Grade 1 of primary education, female (%)",64
+"675","Drop-out rate from Grade 1 of primary education, male (%)",64
+"676","Drop-out rate from Grade 2 of lower secondary general education, both sexes (%)",64
+"677","Drop-out rate from Grade 2 of lower secondary general education, female (%)",64
+"678","Drop-out rate from Grade 2 of lower secondary general education, male (%)",64
+"679","Drop-out rate from Grade 2 of primary education, both sexes (%)",64
+"680","Drop-out rate from Grade 2 of primary education, female (%)",64
+"681","Drop-out rate from Grade 2 of primary education, male (%)",64
+"682","Drop-out rate from Grade 3 of lower secondary general education, both sexes (%)",64
+"683","Drop-out rate from Grade 3 of lower secondary general education, female (%)",64
+"684","Drop-out rate from Grade 3 of lower secondary general education, male (%)",64
+"685","Drop-out rate from Grade 3 of primary education, both sexes (%)",64
+"686","Drop-out rate from Grade 3 of primary education, female (%)",64
+"687","Drop-out rate from Grade 3 of primary education, male (%)",64
+"688","Drop-out rate from Grade 4 of lower secondary general education, both sexes (%)",64
+"689","Drop-out rate from Grade 4 of lower secondary general education, female (%)",64
+"690","Drop-out rate from Grade 4 of lower secondary general education, male (%)",64
+"691","Drop-out rate from Grade 4 of primary education, both sexes (%)",64
+"692","Drop-out rate from Grade 4 of primary education, female (%)",64
+"693","Drop-out rate from Grade 4 of primary education, male (%)",64
+"694","Drop-out rate from Grade 5 of lower secondary general education, both sexes (%)",64
+"695","Drop-out rate from Grade 5 of lower secondary general education, female (%)",64
+"696","Drop-out rate from Grade 5 of lower secondary general education, male (%)",64
+"697","Drop-out rate from Grade 5 of primary education, both sexes (%)",64
+"698","Drop-out rate from Grade 5 of primary education, female (%)",64
+"699","Drop-out rate from Grade 5 of primary education, male (%)",64
+"700","Drop-out rate from Grade 6 of primary education, both sexes (%)",64
+"701","Drop-out rate from Grade 6 of primary education, female (%)",64
+"702","Drop-out rate from Grade 6 of primary education, male (%)",64
+"703","Duration of compulsory education (years)",64
+"704","Early school leavers from primary education, both sexes (number)",64
+"705","Early school leavers from primary education, female (number)",64
+"706","Early school leavers from primary education, male (number)",64
+"707","Effective transition rate from primary to lower secondary general education, both sexes (%)",64
+"708","Effective transition rate from primary to lower secondary general education, female (%)",64
+"709","Effective transition rate from primary to lower secondary general education, gender parity index (GPI)",64
+"710","Effective transition rate from primary to lower secondary general education, male (%)",64
+"711","EGRA: Correct Isolated Words Read Per Minute (Mean). Afan Oromo. 2nd Grade",64
+"712","EGRA: Correct Isolated Words Read Per Minute (Mean). Afan Oromo. 3rd Grade",64
+"713","EGRA: Correct Isolated Words Read Per Minute (Mean). Amharic. 2nd Grade",64
+"714","EGRA: Correct Isolated Words Read Per Minute (Mean). Amharic. 3rd Grade",64
+"715","EGRA: Correct Isolated Words Read Per Minute (Mean). Arabic. 2nd Grade",64
+"716","EGRA: Correct Isolated Words Read Per Minute (Mean). Bamanankan. 2nd Grade",64
+"717","EGRA: Correct Isolated Words Read Per Minute (Mean). Bomu. 2nd Grade",64
+"718","EGRA: Correct Isolated Words Read Per Minute (Mean). Chichewa. 2nd Grade",64
+"719","EGRA: Correct Isolated Words Read Per Minute (Mean). Chichewa. 4th Grade",64
+"720","EGRA: Correct Isolated Words Read Per Minute (Mean). English. 2nd Grade",64
+"721","EGRA: Correct Isolated Words Read Per Minute (Mean). English. 3rd Grade",64
+"722","EGRA: Correct Isolated Words Read Per Minute (Mean). English. 4th Grade",64
+"723","EGRA: Correct Isolated Words Read Per Minute (Mean). English. 6th Grade",64
+"724","EGRA: Correct Isolated Words Read Per Minute (Mean). Filipino. 3rd Grade",64
+"725","EGRA: Correct Isolated Words Read Per Minute (Mean). Fulfulde. 2nd Grade",64
+"726","EGRA: Correct Isolated Words Read Per Minute (Mean). Hararigna. 2nd Grade",64
+"727","EGRA: Correct Isolated Words Read Per Minute (Mean). Hararigna. 3rd Grade",64
+"728","EGRA: Correct Isolated Words Read Per Minute (Mean). Kinyarwanda. 4th Grade",64
+"729","EGRA: Correct Isolated Words Read Per Minute (Mean). Kinyarwanda. 6th Grade",64
+"730","EGRA: Correct Isolated Words Read Per Minute (Mean). Kiswahili. 2nd Grade",64
+"731","EGRA: Correct Isolated Words Read Per Minute (Mean). Sidaamu Afoo. 2nd Grade",64
+"732","EGRA: Correct Isolated Words Read Per Minute (Mean). Sidaamu Afoo. 3rd Grade",64
+"733","EGRA: Correct Isolated Words Read Per Minute (Mean). Somaligna. 2nd Grade",64
+"734","EGRA: Correct Isolated Words Read Per Minute (Mean). Somaligna. 3rd Grade",64
+"735","EGRA: Correct Isolated Words Read Per Minute (Mean). Songhoi. 2nd Grade",64
+"736","EGRA: Correct Isolated Words Read Per Minute (Mean). Spanish. 2nd Grade",64
+"737","EGRA: Correct Isolated Words Read Per Minute (Mean). Spanish. 3rd Grade",64
+"738","EGRA: Correct Isolated Words Read Per Minute (Mean). Spanish. 4th Grade",64
+"739","EGRA: Correct Isolated Words Read Per Minute (Mean). Tigrinya. 2nd Grade",64
+"740","EGRA: Correct Isolated Words Read Per Minute (Mean). Tigrinya. 3rd Grade",64
+"741","EGRA: Correct Letter Names Read Per Minute (Mean). Afan Oromo. 2nd Grade",64
+"742","EGRA: Correct Letter Names Read Per Minute (Mean). Afan Oromo. 3rd Grade",64
+"743","EGRA: Correct Letter Names Read Per Minute (Mean). Amharic. 2nd Grade",64
+"744","EGRA: Correct Letter Names Read Per Minute (Mean). Amharic. 3rd Grade",64
+"745","EGRA: Correct Letter Names Read Per Minute (Mean). Bamanankan. 2nd Grade",64
+"746","EGRA: Correct Letter Names Read Per Minute (Mean). Bomu. 2nd Grade",64
+"747","EGRA: Correct Letter Names Read Per Minute (Mean). Chichewa. 2nd Grade",64
+"748","EGRA: Correct Letter Names Read Per Minute (Mean). Chichewa. 4th Grade",64
+"749","EGRA: Correct Letter Names Read Per Minute (Mean). English. 2nd Grade",64
+"750","EGRA: Correct Letter Names Read Per Minute (Mean). English. 3rd Grade",64
+"751","EGRA: Correct Letter Names Read Per Minute (Mean). English. 4th Grade",64
+"752","EGRA: Correct Letter Names Read Per Minute (Mean). French. 3rd Grade",64
+"753","EGRA: Correct Letter Names Read Per Minute (Mean). Fulfulde. 2nd Grade",64
+"754","EGRA: Correct Letter Names Read Per Minute (Mean). Hararigna. 2nd Grade",64
+"755","EGRA: Correct Letter Names Read Per Minute (Mean). Hararigna. 3rd Grade",64
+"756","EGRA: Correct Letter Names Read Per Minute (Mean). Sidaamu Afoo. 2nd Grade",64
+"757","EGRA: Correct Letter Names Read Per Minute (Mean). Sidaamu Afoo. 3rd Grade",64
+"758","EGRA: Correct Letter Names Read Per Minute (Mean). Somaligna. 2nd Grade",64
+"759","EGRA: Correct Letter Names Read Per Minute (Mean). Somaligna. 3rd Grade",64
+"760","EGRA: Correct Letter Names Read Per Minute (Mean). Songhoi. 2nd Grade",64
+"761","EGRA: Correct Letter Names Read Per Minute (Mean). Spanish. 2nd Grade",64
+"762","EGRA: Correct Letter Names Read Per Minute (Mean). Spanish. 3rd Grade",64
+"763","EGRA: Correct Letter Names Read Per Minute (Mean). Spanish. 4th Grade",64
+"764","EGRA: Correct Letter Names Read Per Minute (Mean). Tigrinya. 2nd Grade",64
+"765","EGRA: Correct Letter Names Read Per Minute (Mean). Tigrinya. 3rd Grade",64
+"766","EGRA: Correct Letter Sounds Read Per Minute (Mean). Akuapem. 2nd Grade",64
+"767","EGRA: Correct Letter Sounds Read Per Minute (Mean). Arabic. 2nd Grade",64
+"768","EGRA: Correct Letter Sounds Read Per Minute (Mean). Arabic. 3rd Grade",64
+"769","EGRA: Correct Letter Sounds Read Per Minute (Mean). Asante Twi. 2nd Grade",64
+"770","EGRA: Correct Letter Sounds Read Per Minute (Mean). Chitonga. 2nd Grade",64
+"771","EGRA: Correct Letter Sounds Read Per Minute (Mean). Cinyanja. 2nd Grade",64
+"772","EGRA: Correct Letter Sounds Read Per Minute (Mean). Dagaare. 2nd Grade",64
+"773","EGRA: Correct Letter Sounds Read Per Minute (Mean). Dagbani. 2nd Grade",64
+"774","EGRA: Correct Letter Sounds Read Per Minute (Mean). Dangme. 2nd Grade",64
+"775","EGRA: Correct Letter Sounds Read Per Minute (Mean). English. 2nd Grade",64
+"776","EGRA: Correct Letter Sounds Read Per Minute (Mean). English. 3rd Grade",64
+"777","EGRA: Correct Letter Sounds Read Per Minute (Mean). English. 4th Grade",64
+"778","EGRA: Correct Letter Sounds Read Per Minute (Mean). English. 6th Grade",64
+"779","EGRA: Correct Letter Sounds Read Per Minute (Mean). Ewe. 2nd Grade",64
+"780","EGRA: Correct Letter Sounds Read Per Minute (Mean). Fante. 2nd Grade",64
+"781","EGRA: Correct Letter Sounds Read Per Minute (Mean). Filipino. 3rd Grade",64
+"782","EGRA: Correct Letter Sounds Read Per Minute (Mean). Ga. 2nd Grade",64
+"783","EGRA: Correct Letter Sounds Read Per Minute (Mean). Gonja. 2nd Grade",64
+"784","EGRA: Correct Letter Sounds Read Per Minute (Mean). Icibemba. 2nd Grade",64
+"785","EGRA: Correct Letter Sounds Read Per Minute (Mean). Indonesian. 2nd Grade",64
+"786","EGRA: Correct Letter Sounds Read Per Minute (Mean). Kasem. 2nd Grade",64
+"787","EGRA: Correct Letter Sounds Read Per Minute (Mean). Kiikaonde. 2nd Grade",64
+"788","EGRA: Correct Letter Sounds Read Per Minute (Mean). Kinyarwanda. 4th Grade",64
+"789","EGRA: Correct Letter Sounds Read Per Minute (Mean). Kinyarwanda. 6th Grade",64
+"790","EGRA: Correct Letter Sounds Read Per Minute (Mean). Lunda. 2nd Grade",64
+"791","EGRA: Correct Letter Sounds Read Per Minute (Mean). Luvale. 2nd Grade",64
+"792","EGRA: Correct Letter Sounds Read Per Minute (Mean). Nzema. 2nd Grade",64
+"793","EGRA: Correct Letter Sounds Read Per Minute (Mean). Silozi. 2nd Grade",64
+"794","EGRA: Correct Non-Words Read Per Minute (Mean). Afan Oromo. 2nd Grade",64
+"795","EGRA: Correct Non-Words Read Per Minute (Mean). Afan Oromo. 3rd Grade",64
+"796","EGRA: Correct Non-Words Read Per Minute (Mean). Akuapem. 2nd Grade",64
+"797","EGRA: Correct Non-Words Read Per Minute (Mean). Amharic. 2nd Grade",64
+"798","EGRA: Correct Non-Words Read Per Minute (Mean). Amharic. 3rd Grade",64
+"799","EGRA: Correct Non-Words Read Per Minute (Mean). Arabic. 2nd Grade",64
+"800","EGRA: Correct Non-Words Read Per Minute (Mean). Arabic. 3rd Grade",64
+"801","EGRA: Correct Non-Words Read Per Minute (Mean). Asante Twi. 2nd Grade",64
+"802","EGRA: Correct Non-Words Read Per Minute (Mean). Bamanankan. 2nd Grade",64
+"803","EGRA: Correct Non-Words Read Per Minute (Mean). Bomu. 2nd Grade",64
+"804","EGRA: Correct Non-Words Read Per Minute (Mean). Chichewa. 2nd Grade",64
+"805","EGRA: Correct Non-Words Read Per Minute (Mean). Chichewa. 4th Grade",64
+"806","EGRA: Correct Non-Words Read Per Minute (Mean). Chitonga. 2nd Grade",64
+"807","EGRA: Correct Non-Words Read Per Minute (Mean). Cinyanja. 2nd Grade",64
+"808","EGRA: Correct Non-Words Read Per Minute (Mean). Dagaare. 2nd Grade",64
+"809","EGRA: Correct Non-Words Read Per Minute (Mean). Dagbani. 2nd Grade",64
+"810","EGRA: Correct Non-Words Read Per Minute (Mean). Dangme. 2nd Grade",64
+"811","EGRA: Correct Non-Words Read Per Minute (Mean). English. 2nd Grade",64
+"812","EGRA: Correct Non-Words Read Per Minute (Mean). English. 3rd Grade",64
+"813","EGRA: Correct Non-Words Read Per Minute (Mean). English. 4th Grade",64
+"814","EGRA: Correct Non-Words Read Per Minute (Mean). English. 6th Grade",64
+"815","EGRA: Correct Non-Words Read Per Minute (Mean). Ewe. 2nd Grade",64
+"816","EGRA: Correct Non-Words Read Per Minute (Mean). Fante. 2nd Grade",64
+"817","EGRA: Correct Non-Words Read Per Minute (Mean). Filipino. 3rd Grade",64
+"818","EGRA: Correct Non-Words Read Per Minute (Mean). French. 3rd Grade",64
+"819","EGRA: Correct Non-Words Read Per Minute (Mean). Fulfulde. 2nd Grade",64
+"820","EGRA: Correct Non-Words Read Per Minute (Mean). Ga. 2nd Grade",64
+"821","EGRA: Correct Non-Words Read Per Minute (Mean). Gonja. 2nd Grade",64
+"822","EGRA: Correct Non-Words Read Per Minute (Mean). Hararigna. 2nd Grade",64
+"823","EGRA: Correct Non-Words Read Per Minute (Mean). Hararigna. 3rd Grade",64
+"824","EGRA: Correct Non-Words Read Per Minute (Mean). Icibemba. 2nd Grade",64
+"825","EGRA: Correct Non-Words Read Per Minute (Mean). Indonesian. 2nd Grade",64
+"826","EGRA: Correct Non-Words Read Per Minute (Mean). Kasem. 2nd Grade",64
+"827","EGRA: Correct Non-Words Read Per Minute (Mean). Kiikaonde. 2nd Grade",64
+"828","EGRA: Correct Non-Words Read Per Minute (Mean). Kinyarwanda. 4th Grade",64
+"829","EGRA: Correct Non-Words Read Per Minute (Mean). Kinyarwanda. 6th Grade",64
+"830","EGRA: Correct Non-Words Read Per Minute (Mean). Kiswahili. 2nd Grade",64
+"831","EGRA: Correct Non-Words Read Per Minute (Mean). Lunda. 2nd Grade",64
+"832","EGRA: Correct Non-Words Read Per Minute (Mean). Luvale. 2nd Grade",64
+"833","EGRA: Correct Non-Words Read Per Minute (Mean). Nzema. 2nd Grade",64
+"834","EGRA: Correct Non-Words Read Per Minute (Mean). Sidaamu Afoo. 2nd Grade",64
+"835","EGRA: Correct Non-Words Read Per Minute (Mean). Sidaamu Afoo. 3rd Grade",64
+"836","EGRA: Correct Non-Words Read Per Minute (Mean). Silozi. 2nd Grade",64
+"837","EGRA: Correct Non-Words Read Per Minute (Mean). Somaligna. 2nd Grade",64
+"838","EGRA: Correct Non-Words Read Per Minute (Mean). Somaligna. 3rd Grade",64
+"839","EGRA: Correct Non-Words Read Per Minute (Mean). Songhoi. 2nd Grade",64
+"840","EGRA: Correct Non-Words Read Per Minute (Mean). Spanish. 2nd Grade",64
+"841","EGRA: Correct Non-Words Read Per Minute (Mean). Spanish. 3rd Grade",64
+"842","EGRA: Correct Non-Words Read Per Minute (Mean). Spanish. 4th Grade",64
+"843","EGRA: Correct Non-Words Read Per Minute (Mean). Tigrinya. 2nd Grade",64
+"844","EGRA: Correct Non-Words Read Per Minute (Mean). Tigrinya. 3rd Grade",64
+"845","EGRA: Identification of the Initial Sound of a Spoken Word - Share of students with a zero score (%). Bamanankan. 2nd Grade",64
+"846","EGRA: Identification of the Initial Sound of a Spoken Word - Share of students with a zero score (%). Bomu. 2nd Grade",64
+"847","EGRA: Identification of the Initial Sound of a Spoken Word - Share of students with a zero score (%). Chichewa. 2nd Grade",64
+"848","EGRA: Identification of the Initial Sound of a Spoken Word - Share of students with a zero score (%). Chichewa. 4th Grade",64
+"849","EGRA: Identification of the Initial Sound of a Spoken Word - Share of students with a zero score (%). English. 2nd Grade",64
+"850","EGRA: Identification of the Initial Sound of a Spoken Word - Share of students with a zero score (%). English. 3rd Grade",64
+"851","EGRA: Identification of the Initial Sound of a Spoken Word - Share of students with a zero score (%). English. 4th Grade",64
+"852","EGRA: Identification of the Initial Sound of a Spoken Word - Share of students with a zero score (%). English. 6th Grade",64
+"853","EGRA: Identification of the Initial Sound of a Spoken Word - Share of students with a zero score (%). Fulfulde. 2nd Grade",64
+"854","EGRA: Identification of the Initial Sound of a Spoken Word - Share of students with a zero score (%). Kinyarwanda. 4th Grade",64
+"855","EGRA: Identification of the Initial Sound of a Spoken Word - Share of students with a zero score (%). Kinyarwanda. 6th Grade",64
+"856","EGRA: Identification of the Initial Sound of a Spoken Word - Share of students with a zero score (%). Songhoi. 2nd Grade",64
+"857","EGRA: Identification of the Initial Sound of a Spoken Word - Share of students with a zero score (%). Spanish. 2nd Grade",64
+"858","EGRA: Identification of the Initial Sound of a Spoken Word - Share of students with a zero score (%). Spanish. 3rd Grade",64
+"859","EGRA: Identification of the Initial Sound of a Spoken Word - Share of students with a zero score (%). Spanish. 4th Grade",64
+"860","EGRA: Listening Comprehension - Share of students with a zero score (%). Afan Oromo. 2nd Grade",64
+"861","EGRA: Listening Comprehension - Share of students with a zero score (%). Afan Oromo. 3rd Grade",64
+"862","EGRA: Listening Comprehension - Share of students with a zero score (%). Akuapem. 2nd Grade",64
+"863","EGRA: Listening Comprehension - Share of students with a zero score (%). Amharic. 2nd Grade",64
+"864","EGRA: Listening Comprehension - Share of students with a zero score (%). Amharic. 3rd Grade",64
+"865","EGRA: Listening Comprehension - Share of students with a zero score (%). Arabic. 2nd Grade",64
+"866","EGRA: Listening Comprehension - Share of students with a zero score (%). Arabic. 3rd Grade",64
+"867","EGRA: Listening Comprehension - Share of students with a zero score (%). Asante Twi. 2nd Grade",64
+"868","EGRA: Listening Comprehension - Share of students with a zero score (%). Bamanankan. 2nd Grade",64
+"869","EGRA: Listening Comprehension - Share of students with a zero score (%). Bomu. 2nd Grade",64
+"870","EGRA: Listening Comprehension - Share of students with a zero score (%). Chichewa. 2nd Grade",64
+"871","EGRA: Listening Comprehension - Share of students with a zero score (%). Chichewa. 4th Grade",64
+"872","EGRA: Listening Comprehension - Share of students with a zero score (%). Chitonga. 2nd Grade",64
+"873","EGRA: Listening Comprehension - Share of students with a zero score (%). Cinyanja. 2nd Grade",64
+"874","EGRA: Listening Comprehension - Share of students with a zero score (%). Dagaare. 2nd Grade",64
+"875","EGRA: Listening Comprehension - Share of students with a zero score (%). Dagbani. 2nd Grade",64
+"876","EGRA: Listening Comprehension - Share of students with a zero score (%). Dangme. 2nd Grade",64
+"877","EGRA: Listening Comprehension - Share of students with a zero score (%). English. 2nd Grade",64
+"878","EGRA: Listening Comprehension - Share of students with a zero score (%). English. 3rd Grade",64
+"879","EGRA: Listening Comprehension - Share of students with a zero score (%). English. 4th Grade",64
+"880","EGRA: Listening Comprehension - Share of students with a zero score (%). English. 6th Grade",64
+"881","EGRA: Listening Comprehension - Share of students with a zero score (%). Ewe. 2nd Grade",64
+"882","EGRA: Listening Comprehension - Share of students with a zero score (%). Fante. 2nd Grade",64
+"883","EGRA: Listening Comprehension - Share of students with a zero score (%). Filipino. 3rd Grade",64
+"884","EGRA: Listening Comprehension - Share of students with a zero score (%). Fulfulde. 2nd Grade",64
+"885","EGRA: Listening Comprehension - Share of students with a zero score (%). Ga. 2nd Grade",64
+"886","EGRA: Listening Comprehension - Share of students with a zero score (%). Gonja. 2nd Grade",64
+"887","EGRA: Listening Comprehension - Share of students with a zero score (%). Hararigna. 2nd Grade",64
+"888","EGRA: Listening Comprehension - Share of students with a zero score (%). Hararigna. 3rd Grade",64
+"889","EGRA: Listening Comprehension - Share of students with a zero score (%). Icibemba. 2nd Grade",64
+"890","EGRA: Listening Comprehension - Share of students with a zero score (%). Indonesian. 2nd Grade",64
+"891","EGRA: Listening Comprehension - Share of students with a zero score (%). Kasem. 2nd Grade",64
+"892","EGRA: Listening Comprehension - Share of students with a zero score (%). Kiikaonde. 2nd Grade",64
+"893","EGRA: Listening Comprehension - Share of students with a zero score (%). Kinyarwanda. 4th Grade",64
+"894","EGRA: Listening Comprehension - Share of students with a zero score (%). Kinyarwanda. 6th Grade",64
+"895","EGRA: Listening Comprehension - Share of students with a zero score (%). Kiswahili. 2nd Grade",64
+"896","EGRA: Listening Comprehension - Share of students with a zero score (%). Lunda. 2nd Grade",64
+"897","EGRA: Listening Comprehension - Share of students with a zero score (%). Luvale. 2nd Grade",64
+"898","EGRA: Listening Comprehension - Share of students with a zero score (%). Nzema. 2nd Grade",64
+"899","EGRA: Listening Comprehension - Share of students with a zero score (%). Sidaamu Afoo. 2nd Grade",64
+"900","EGRA: Listening Comprehension - Share of students with a zero score (%). Sidaamu Afoo. 3rd Grade",64
+"901","EGRA: Listening Comprehension - Share of students with a zero score (%). Silozi. 2nd Grade",64
+"902","EGRA: Listening Comprehension - Share of students with a zero score (%). Somaligna. 2nd Grade",64
+"903","EGRA: Listening Comprehension - Share of students with a zero score (%). Somaligna. 3rd Grade",64
+"904","EGRA: Listening Comprehension - Share of students with a zero score (%). Songhoi. 2nd Grade",64
+"905","EGRA: Listening Comprehension - Share of students with a zero score (%). Spanish. 2nd Grade",64
+"906","EGRA: Listening Comprehension - Share of students with a zero score (%). Spanish. 3rd Grade",64
+"907","EGRA: Listening Comprehension - Share of students with a zero score (%). Spanish. 4th Grade",64
+"908","EGRA: Listening Comprehension - Share of students with a zero score (%). Tigrinya. 2nd Grade",64
+"909","EGRA: Listening Comprehension - Share of students with a zero score (%). Tigrinya. 3rd Grade",64
+"910","EGRA: Oral Reading Fluency - Correct Words Read Per Minute (Mean). Afan Oromo. 2nd Grade",64
+"911","EGRA: Oral Reading Fluency - Correct Words Read Per Minute (Mean). Afan Oromo. 3rd Grade",64
+"912","EGRA: Oral Reading Fluency - Correct Words Read Per Minute (Mean). Akuapem. 2nd Grade",64
+"913","EGRA: Oral Reading Fluency - Correct Words Read Per Minute (Mean). Amharic. 2nd Grade",64
+"914","EGRA: Oral Reading Fluency - Correct Words Read Per Minute (Mean). Amharic. 3rd Grade",64
+"915","EGRA: Oral Reading Fluency - Correct Words Read Per Minute (Mean). Arabic. 2nd Grade",64
+"916","EGRA: Oral Reading Fluency - Correct Words Read Per Minute (Mean). Arabic. 3rd Grade",64
+"917","EGRA: Oral Reading Fluency - Correct Words Read Per Minute (Mean). Asante Twi. 2nd Grade",64
+"918","EGRA: Oral Reading Fluency - Correct Words Read Per Minute (Mean). Bamanankan. 2nd Grade",64
+"919","EGRA: Oral Reading Fluency - Correct Words Read Per Minute (Mean). Bomu. 2nd Grade",64
+"920","EGRA: Oral Reading Fluency - Correct Words Read Per Minute (Mean). Chichewa. 2nd Grade",64
+"921","EGRA: Oral Reading Fluency - Correct Words Read Per Minute (Mean). Chichewa. 4th Grade",64
+"922","EGRA: Oral Reading Fluency - Correct Words Read Per Minute (Mean). Chitonga. 2nd Grade",64
+"923","EGRA: Oral Reading Fluency - Correct Words Read Per Minute (Mean). Cinyanja. 2nd Grade",64
+"924","EGRA: Oral Reading Fluency - Correct Words Read Per Minute (Mean). Dagaare. 2nd Grade",64
+"925","EGRA: Oral Reading Fluency - Correct Words Read Per Minute (Mean). Dagbani. 2nd Grade",64
+"926","EGRA: Oral Reading Fluency - Correct Words Read Per Minute (Mean). Dangme. 2nd Grade",64
+"927","EGRA: Oral Reading Fluency - Correct Words Read Per Minute (Mean). English. 2nd Grade",64
+"928","EGRA: Oral Reading Fluency - Correct Words Read Per Minute (Mean). English. 3rd Grade",64
+"929","EGRA: Oral Reading Fluency - Correct Words Read Per Minute (Mean). English. 4th Grade",64
+"930","EGRA: Oral Reading Fluency - Correct Words Read Per Minute (Mean). English. 6th Grade",64
+"931","EGRA: Oral Reading Fluency - Correct Words Read Per Minute (Mean). Ewe. 2nd Grade",64
+"932","EGRA: Oral Reading Fluency - Correct Words Read Per Minute (Mean). Fante. 2nd Grade",64
+"933","EGRA: Oral Reading Fluency - Correct Words Read Per Minute (Mean). Filipino. 3rd Grade",64
+"934","EGRA: Oral Reading Fluency - Correct Words Read Per Minute (Mean). French. 3rd Grade",64
+"935","EGRA: Oral Reading Fluency - Correct Words Read Per Minute (Mean). Fulfulde. 2nd Grade",64
+"936","EGRA: Oral Reading Fluency - Correct Words Read Per Minute (Mean). Ga. 2nd Grade",64
+"937","EGRA: Oral Reading Fluency - Correct Words Read Per Minute (Mean). Gonja. 2nd Grade",64
+"938","EGRA: Oral Reading Fluency - Correct Words Read Per Minute (Mean). Hararigna. 2nd Grade",64
+"939","EGRA: Oral Reading Fluency - Correct Words Read Per Minute (Mean). Hararigna. 3rd Grade",64
+"940","EGRA: Oral Reading Fluency - Correct Words Read Per Minute (Mean). Icibemba. 2nd Grade",64
+"941","EGRA: Oral Reading Fluency - Correct Words Read Per Minute (Mean). Indonesian. 2nd Grade",64
+"942","EGRA: Oral Reading Fluency - Correct Words Read Per Minute (Mean). Kasem. 2nd Grade",64
+"943","EGRA: Oral Reading Fluency - Correct Words Read Per Minute (Mean). Kiikaonde. 2nd Grade",64
+"944","EGRA: Oral Reading Fluency - Correct Words Read Per Minute (Mean). Kinyarwanda. 4th Grade",64
+"945","EGRA: Oral Reading Fluency - Correct Words Read Per Minute (Mean). Kinyarwanda. 6th Grade",64
+"946","EGRA: Oral Reading Fluency - Correct Words Read Per Minute (Mean). Kiswahili. 2nd Grade",64
+"947","EGRA: Oral Reading Fluency - Correct Words Read Per Minute (Mean). Lunda. 2nd Grade",64
+"948","EGRA: Oral Reading Fluency - Correct Words Read Per Minute (Mean). Luvale. 2nd Grade",64
+"949","EGRA: Oral Reading Fluency - Correct Words Read Per Minute (Mean). Nzema. 2nd Grade",64
+"950","EGRA: Oral Reading Fluency - Correct Words Read Per Minute (Mean). Sidaamu Afoo. 2nd Grade",64
+"951","EGRA: Oral Reading Fluency - Correct Words Read Per Minute (Mean). Sidaamu Afoo. 3rd Grade",64
+"952","EGRA: Oral Reading Fluency - Correct Words Read Per Minute (Mean). Silozi. 2nd Grade",64
+"953","EGRA: Oral Reading Fluency - Correct Words Read Per Minute (Mean). Somaligna. 2nd Grade",64
+"954","EGRA: Oral Reading Fluency - Correct Words Read Per Minute (Mean). Somaligna. 3rd Grade",64
+"955","EGRA: Oral Reading Fluency - Correct Words Read Per Minute (Mean). Songhoi. 2nd Grade",64
+"956","EGRA: Oral Reading Fluency - Correct Words Read Per Minute (Mean). Spanish. 2nd Grade",64
+"957","EGRA: Oral Reading Fluency - Correct Words Read Per Minute (Mean). Spanish. 3rd Grade",64
+"958","EGRA: Oral Reading Fluency - Correct Words Read Per Minute (Mean). Spanish. 4th Grade",64
+"959","EGRA: Oral Reading Fluency - Correct Words Read Per Minute (Mean). Tigrinya. 2nd Grade",64
+"960","EGRA: Oral Reading Fluency - Correct Words Read Per Minute (Mean). Tigrinya. 3rd Grade",64
+"961","EGRA: Oral Reading Fluency - Share of students with a zero score (%). Afan Oromo. 2nd Grade",64
+"962","EGRA: Oral Reading Fluency - Share of students with a zero score (%). Afan Oromo. 3rd Grade",64
+"963","EGRA: Oral Reading Fluency - Share of students with a zero score (%). Akuapem. 2nd Grade",64
+"964","EGRA: Oral Reading Fluency - Share of students with a zero score (%). Amharic. 2nd Grade",64
+"965","EGRA: Oral Reading Fluency - Share of students with a zero score (%). Amharic. 3rd Grade",64
+"966","EGRA: Oral Reading Fluency - Share of students with a zero score (%). Arabic. 2nd Grade",64
+"967","EGRA: Oral Reading Fluency - Share of students with a zero score (%). Arabic. 3rd Grade",64
+"968","EGRA: Oral Reading Fluency - Share of students with a zero score (%). Asante Twi. 2nd Grade",64
+"969","EGRA: Oral Reading Fluency - Share of students with a zero score (%). Bamanankan. 2nd Grade",64
+"970","EGRA: Oral Reading Fluency - Share of students with a zero score (%). Bomu. 2nd Grade",64
+"971","EGRA: Oral Reading Fluency - Share of students with a zero score (%). Chichewa. 2nd Grade",64
+"972","EGRA: Oral Reading Fluency - Share of students with a zero score (%). Chichewa. 4th Grade",64
+"973","EGRA: Oral Reading Fluency - Share of students with a zero score (%). Chitonga. 2nd Grade",64
+"974","EGRA: Oral Reading Fluency - Share of students with a zero score (%). Cinyanja. 2nd Grade",64
+"975","EGRA: Oral Reading Fluency - Share of students with a zero score (%). Dagaare. 2nd Grade",64
+"976","EGRA: Oral Reading Fluency - Share of students with a zero score (%). Dagbani. 2nd Grade",64
+"977","EGRA: Oral Reading Fluency - Share of students with a zero score (%). Dangme. 2nd Grade",64
+"978","EGRA: Oral Reading Fluency - Share of students with a zero score (%). English. 2nd Grade",64
+"979","EGRA: Oral Reading Fluency - Share of students with a zero score (%). English. 3rd Grade",64
+"980","EGRA: Oral Reading Fluency - Share of students with a zero score (%). English. 4th Grade",64
+"981","EGRA: Oral Reading Fluency - Share of students with a zero score (%). English. 6th Grade",64
+"982","EGRA: Oral Reading Fluency - Share of students with a zero score (%). Ewe. 2nd Grade",64
+"983","EGRA: Oral Reading Fluency - Share of students with a zero score (%). Fante. 2nd Grade",64
+"984","EGRA: Oral Reading Fluency - Share of students with a zero score (%). Filipino. 3rd Grade",64
+"985","EGRA: Oral Reading Fluency - Share of students with a zero score (%). French. 3rd Grade",64
+"986","EGRA: Oral Reading Fluency - Share of students with a zero score (%). Fulfulde. 2nd Grade",64
+"987","EGRA: Oral Reading Fluency - Share of students with a zero score (%). Ga. 2nd Grade",64
+"988","EGRA: Oral Reading Fluency - Share of students with a zero score (%). Gonja. 2nd Grade",64
+"989","EGRA: Oral Reading Fluency - Share of students with a zero score (%). Hararigna. 2nd Grade",64
+"990","EGRA: Oral Reading Fluency - Share of students with a zero score (%). Hararigna. 3rd Grade",64
+"991","EGRA: Oral Reading Fluency - Share of students with a zero score (%). Icibemba. 2nd Grade",64
+"992","EGRA: Oral Reading Fluency - Share of students with a zero score (%). Indonesian. 2nd Grade",64
+"993","EGRA: Oral Reading Fluency - Share of students with a zero score (%). Kasem. 2nd Grade",64
+"994","EGRA: Oral Reading Fluency - Share of students with a zero score (%). Kiikaonde. 2nd Grade",64
+"995","EGRA: Oral Reading Fluency - Share of students with a zero score (%). Kinyarwanda. 4th Grade",64
+"996","EGRA: Oral Reading Fluency - Share of students with a zero score (%). Kinyarwanda. 6th Grade",64
+"997","EGRA: Oral Reading Fluency - Share of students with a zero score (%). Kiswahili. 2nd Grade",64
+"998","EGRA: Oral Reading Fluency - Share of students with a zero score (%). Lunda. 2nd Grade",64
+"999","EGRA: Oral Reading Fluency - Share of students with a zero score (%). Luvale. 2nd Grade",64
+"1000","EGRA: Oral Reading Fluency - Share of students with a zero score (%). Nzema. 2nd Grade",64
